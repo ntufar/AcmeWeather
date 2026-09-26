@@ -109,7 +109,7 @@ struct SafetyHubView: View {
             Text("One tap sends an \"I'm safe\" message with your location through Messages, WhatsApp or any app.")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
-            ShareLink(item: "I'm safe ✅ — I'm \(place). I'll check in again soon. (Sent from Acme Weather)") {
+            ShareLink(item: "I'm safe ✅ — I'm \(place). I'll check in again soon. (Sent from Tufar Weather)") {
                 Label("I'm Safe", systemImage: "checkmark.shield.fill")
                     .font(.headline)
                     .frame(maxWidth: .infinity)

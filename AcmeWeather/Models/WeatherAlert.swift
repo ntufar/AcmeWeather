@@ -120,6 +120,6 @@ struct WeatherAlert: Identifiable, Hashable, Comparable {
     }
 
     var shareText: String {
-        "⚠️ \(event) — \(areaDescription)\n\n\(headline)\n\nShared from Acme Weather"
+        "⚠️ \(event) — \(areaDescription)\n\n\(headline)\n\nShared from Tufar Weather"
     }
 }

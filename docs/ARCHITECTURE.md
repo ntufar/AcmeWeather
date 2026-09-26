@@ -1,6 +1,6 @@
 # Architecture
 
-Acme Weather is a pure SwiftUI app (iOS 17+) with no third-party dependencies. It uses the Observation framework, async/await, and MapKit.
+Tufar Weather is a pure SwiftUI app (iOS 17+) with no third-party dependencies. It uses the Observation framework, async/await, and MapKit.
 
 ## Big picture
 

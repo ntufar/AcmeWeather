@@ -1,4 +1,4 @@
-# 🍑 Acme Weather — Georgia's Storm Companion
+# 🍑 Tufar Weather — Georgia's Storm Companion
 
 A native SwiftUI iPhone app for Georgia weather. It covers the Blue Ridge down to the Golden Isles and has what Georgians actually need: live radar, NWS warnings, hurricane tracking, power outage reporting, and tools to keep your family safe.
 
@@ -74,4 +74,4 @@ scripts/            App icon generator
 
 ## Disclaimer
 
-Acme Weather is not a substitute for official warnings from the National Weather Service, the National Hurricane Center, GEMA/HS or local officials. **In an emergency, call 911.** Power outage reporting is a simulation: reports stay on the device and are not sent to any utility.
+Tufar Weather is not a substitute for official warnings from the National Weather Service, the National Hurricane Center, GEMA/HS or local officials. **In an emergency, call 911.** Power outage reporting is a simulation: reports stay on the device and are not sent to any utility.

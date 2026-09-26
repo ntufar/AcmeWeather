@@ -2,7 +2,7 @@ import Foundation
 
 enum AppConfig {
     /// api.weather.gov requires a User-Agent that identifies the app and a contact.
-    static let nwsUserAgent = "(AcmeWeather iOS, ntufar@gmail.com)"
+    static let nwsUserAgent = "(TufarWeather iOS, ntufar@gmail.com)"
 
     /// RainViewer's free tier serves radar tiles up to this zoom level; MapKit
     /// scales the tiles up when you zoom in further.

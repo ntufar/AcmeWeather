@@ -76,7 +76,7 @@ struct SettingsView: View {
                         hasOnboarded = false
                     }
                 } footer: {
-                    Text("Acme Weather \(Bundle.main.shortVersion) · Made with 🍑 in Georgia.\nNot a substitute for official warnings. In an emergency, call 911.")
+                    Text("Tufar Weather \(Bundle.main.shortVersion) · Made with 🍑 in Georgia.\nNot a substitute for official warnings. In an emergency, call 911.")
                 }
             }
             .scrollContentBackground(.hidden)
