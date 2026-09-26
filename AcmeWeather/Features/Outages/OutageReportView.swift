@@ -53,7 +53,7 @@ struct OutageReportView: View {
                     Image(systemName: "bolt.slash.fill")
                         .font(.title)
                         .foregroundStyle(Theme.peach)
-                    Text("Tell us what's happening. We'll route it to your utility and keep you posted.")
+                    Text("Log what's happening and track it here. To get help, report outages to your utility directly.")
                         .font(.subheadline)
                 }
                 Label("Demo — reports are stored on this device only", systemImage: "info.circle")
