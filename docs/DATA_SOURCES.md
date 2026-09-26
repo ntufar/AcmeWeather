@@ -23,7 +23,7 @@ All live data comes from free, key-less public APIs. Endpoints live in `AcmeWeat
 
 ## Before release checklist
 
-- [ ] Replace the contact in `AppConfig.nwsUserAgent`.
+- [x] Replace the contact in `AppConfig.nwsUserAgent`.
 - [ ] Confirm Open-Meteo and RainViewer licensing for your distribution model, or switch providers.
 - [ ] Have emergency management review the evacuation routes and contact list.
 - [ ] Add an in-app attribution screen if providers require one beyond Settings ▸ Data sources.
